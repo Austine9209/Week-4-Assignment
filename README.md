@@ -20,3 +20,7 @@ This repository contains the solutions for the Week 4 Assignment of the Data Sci
 This script checks whether a given string is a palindrome using a stack data structure. A palindrome is a word, phrase, number, or sequence of characters that reads the same backward as forward.
 
 ### Example
+```bash
+Input: "madam"
+Output: True
+
