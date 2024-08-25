@@ -23,4 +23,25 @@ This script checks whether a given string is a palindrome using a stack data str
 ```bash
 Input: "madam"
 Output: True
+```
 
+## 2. List Comprehension in Python
+This script explains the concept of list comprehension in Python, a concise way to create lists based on existing iterables. Three examples are provided to illustrate this concept:
+
+- Generating a list of squares.
+  ### Example
+  ```bash
+  Squares for numbers from 0 to 9
+  Output: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+  ```
+- Filtering even numbers from a list.
+  ```bash
+  Even Numbers from 0 to 19
+  Output: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+  ```
+- Converting a list of strings to uppercase.
+  ```bash
+  Uppercase words:
+  Output: ['HELLO', 'WORLD', 'PYTHON']
+  ```
+  
